@@ -6,13 +6,6 @@ function Footer() {
   return (
     <footer style={{ marginTop: "auto" }}>
       <hr />
-
-      <p className="text-center">
-        <strong>
-          incase of any issues, dont hesitate to contact me via:{" "}
-          <i>0768793923</i>
-        </strong>
-      </p>
       <p
         style={{
           textAlign: "center",
@@ -20,9 +13,9 @@ function Footer() {
           bottom: "0",
         }}
       >
-        ©dev_riz {year}
+        ©mwakazi_eric {year}
         <br />
-        designed by{" "}
+        Reach out through{" "}
         <a
           style={{ textDecoration: "none" }}
           className="text-success"
