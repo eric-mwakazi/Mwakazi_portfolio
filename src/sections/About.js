@@ -10,7 +10,14 @@ function About() {
           <div className="section-title">
             <h2>About</h2>
             <p>
-              👋 Hi, I'm <b>Eric Mwakazi</b> — a backend developer skilled in Python, Flask, and Node.js, with experience building scalable web applications and APIs. I’m proficient in DevOps tools like <b>Docker, Kubernetes, Jenkins, Ansible, Terraform, Prometheus, and Grafana</b>, enabling efficient CI/CD, automation, and monitoring. I also bring full-stack knowledge (HTML, CSS, JavaScript), work well in Agile teams, and manage both SQL and NoSQL databases. A recent <b>ALX software engineering graduate</b>, I have hands-on experience with <b>AWS and Azure</b>, and I’m passionate about delivering cloud-native, high-performance solutions.
+              👋 Hi, I'm <b>Eric Mwakazi</b> — a backend developer skilled in Python, Flask, and Node.js,
+              with experience building scalable web applications and APIs.
+              I’m proficient in DevOps tools like <b>Docker, Kubernetes, Jenkins, Ansible, Terraform, Prometheus, and Grafana</b>,
+              enabling efficient CI/CD, automation, and monitoring. 
+              I also work well in Agile teams, and manage both SQL and NoSQL databases.
+              A recent <b>ALX software engineering graduate</b>,
+              I have hands-on experience with <b>AWS and Azure</b>, 
+              and I’m passionate about delivering cloud-native, high-performance solutions.
             </p>
 
           </div>
