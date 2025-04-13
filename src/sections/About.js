@@ -19,7 +19,7 @@ function About() {
               <img src={aboutimg} className="img-fluid" alt="devriz" />
             </div>
             <div className="col-lg-8 pt-4 pt-lg-0 content">
-              <h3>fullstack &amp; WEB/MOBILE Developer</h3>
+              <h3>Backend &amp;Developer and DEVOPS Enthuast</h3>
               <p className="font-italic">
                 Below is a small biograph of myself. I can describe myself as
                 young, competent and energetic person who is ready to learn and
@@ -36,7 +36,7 @@ function About() {
                       <i className="icofont-rounded-right" />{" "}
                       <strong>Website : </strong>
                       <a href=" https://mwakazieric.vercel.app" target="_blank">
-                        https://devriz.xyz
+                      https://mwakazieric.vercel.app
                       </a>
                     </li>
                     <li>

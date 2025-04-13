@@ -10,10 +10,10 @@ function Hero() {
           data-aos-delay={100}
         >
           <h1 style={{ color: "black", fontWeight: "bolder" }}>
-            RIZWAN HAMISI
+            ERIC MWAKAZI
           </h1>
           <h2 style={{ color: "black", textAlign: "center" }}>
-            I'm a professional software developer based Nairobi, Kenya
+            I'm a professional Backend developer focusing no DEVOPS principles based in Nairobi, Kenya
           </h2>
           <a className="btn-about">About Me</a>
         </div>
