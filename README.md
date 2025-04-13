@@ -9,7 +9,7 @@ I'm a full stack developer JavaScript developer based in Kenya
 # Live project
 
 This project was created with REACTJS by DevRiz
-https://devriz.vercel.app.
+[mwakazieric.vercel.app](https://mwakazieric.vercel.app/).
 
 ## Tech Stack
 
@@ -20,13 +20,13 @@ https://devriz.vercel.app.
 Clone the project
 
 ```bash
-  git clone https://github.com/hamisirizwan/devriz_portfolio
+  git https://github.com/eric-mwakazi/Mwakazi_portfolio.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd devriz_portfolio
+  cd Mwakazi_portfolio
 ```
 
 Install dependencies
