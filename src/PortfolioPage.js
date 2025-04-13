@@ -4,6 +4,7 @@ import Header from "./sections/Header";
 import Hero from "./sections/Hero";
 import Portfolio from "./sections/Portfolio";
 import Services from "./sections/Services";
+import Certificates from "./sections/Certificate";
 
 function PortfolioPage() {
   return (
@@ -11,6 +12,7 @@ function PortfolioPage() {
       <Header />
       <Hero />
       <About />
+      <Certificates/>
       <Services />
       <Portfolio />
     </div>
