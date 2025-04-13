@@ -26,7 +26,7 @@ function About() {
               <img src={aboutimg} className="img-fluid" alt="devriz" />
             </div>
             <div className="col-lg-8 pt-4 pt-lg-0 content">
-              <h3>Backend &amp;Developer and DEVOPS Enthuast</h3>
+              <h3>Backend Developer &amp; DEVOPS Enthuast</h3>
               <p className="font-italic">
                 Below is a small biograph of myself. I can describe myself as
                 young, competent and energetic person who is ready to learn and
