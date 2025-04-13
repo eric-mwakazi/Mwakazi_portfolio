@@ -10,13 +10,9 @@ function About() {
           <div className="section-title">
             <h2>About</h2>
             <p>
-              Rizwan Hamisi alias <b>Devriz</b> is a fullstack web
-              and mobile app developer based in Nairobi,
-              Kenya. With over 4 years of experience in frontend and backend
-              web development, I can literary build web applications with the
-              current trending javascript frontend and backend tools. I have
-              build several websites as a freelancer and as well as in the fulltime job space.
+              👋 Hi, I'm <b>Eric Mwakazi</b> — a backend developer skilled in Python, Flask, and Node.js, with experience building scalable web applications and APIs. I’m proficient in DevOps tools like <b>Docker, Kubernetes, Jenkins, Ansible, Terraform, Prometheus, and Grafana</b>, enabling efficient CI/CD, automation, and monitoring. I also bring full-stack knowledge (HTML, CSS, JavaScript), work well in Agile teams, and manage both SQL and NoSQL databases. A recent <b>ALX software engineering graduate</b>, I have hands-on experience with <b>AWS and Azure</b>, and I’m passionate about delivering cloud-native, high-performance solutions.
             </p>
+
           </div>
           <div className="row">
             <div className="col-lg-4">
@@ -34,18 +30,18 @@ function About() {
                   <ul>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>Name : </strong> Ridhwan Hamisi
+                      <strong>Name : </strong> Eric Mwakazi
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
                       <strong>Website : </strong>
-                      <a href=" https://devriz.vercel.app" target="_blank">
+                      <a href=" https://mwakazieric.vercel.app" target="_blank">
                         https://devriz.xyz
                       </a>
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>Phone :</strong> +254768793923
+                      <strong>Phone :</strong> +254706570456
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
@@ -62,7 +58,7 @@ function About() {
 
                     <li>
                       <i className="icofont-rounded-right" />{" "}
-                      <strong>Email : </strong> devriz2030@gmail.com
+                      <strong>Email : </strong> mwakazieric@gmail.com
                     </li>
                     <li>
                       <i className="icofont-rounded-right" />{" "}
@@ -72,7 +68,7 @@ function About() {
                         target="_blank"
                         rel="noreferrer"
                       >
-                        https://github.com/hamisirizwan
+                        https://github.com/eric-mwakazi
                       </a>
                     </li>
                   </ul>
