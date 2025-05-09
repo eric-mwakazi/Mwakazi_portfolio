@@ -59,7 +59,7 @@ function Skills() {
                 <span className="skill">🔧 Tools & Workflow</span>
               </div>
               <ul>
-                <li>Git & GitHub</li>
+                <li>Git, GitHub & Gitlab </li>
                 <li>Agile/Scrum</li>
               </ul>
             </div>

@@ -13,13 +13,14 @@ function Footer() {
           bottom: "0",
         }}
       >
-        ©mwakazi_eric {year}
+        <a href="https://github.com/eric-mwakazi/"
+        target="_blank" rel="noreferrer">©mwakazi_eric </a>{year}
         <br />
         Reach out through{" "}
         <a
           style={{ textDecoration: "none" }}
           className="text-success"
-          href="https://wa.me/254768793923"
+          href="https://wa.me/254706570456"
         >
           contact developer
         </a>

@@ -5,6 +5,7 @@ import dockerize from "../images/dockerize.png";
 import homelab from "../images/homelab.png";
 import airbnb from "../images/airbnb.png";
 import skills from "../images/skills.png";
+import ans from '../images/ans.png'
 
 function Portfolio() {
   return (
@@ -108,6 +109,23 @@ function Portfolio() {
                 </a>
               </div>
             </div>
+            {/* Moringa-Ansible-workshop */}
+              <div className="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay={100}>
+              <div className="icon-box iconbox-orange">
+                <div style={{ overflow: "hidden" }}>
+                  <img src={ans} alt="Moringa-Ansible-workshop" className="img-fluid w-100" />
+                </div>
+                <h4><a href="https://github.com/eric-mwakazi/Moringa-Ansible-workshop" target="_blank" rel="noreferrer">Moringa-Ansible-workshop</a></h4>
+                <p>
+                  Infrastructure provision with ansible 2 vms (RHEL And UBUNTU Familiy). Infrastructure configuration management with ansible. Project still on going, presentation set on 15th of may 2025.
+                </p>
+                <a href="https://github.com/eric-mwakazi/Moringa-Ansible-workshop" target="_blank" rel="noopener noreferrer">
+                  <button className="btn" style={{ marginTop: 15, backgroundColor: "#34b7a7", color: "white", fontSize: 20 }}>
+                    View on GitHub
+                  </button>
+                </a>
+              </div>
+            </div>
 
             {/* Skillstest */}
             <div className="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay={100}>
@@ -119,13 +137,14 @@ function Portfolio() {
                 <p>
                   Online platform for learning, collaboration, and tutoring. Designed to support learners, experts, and tutors with interactive content.
                 </p>
-                <a href="hhttps://github.com/eric-mwakazi/skillstest" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/eric-mwakazi/skillstest" target="_blank" rel="noopener noreferrer">
                   <button className="btn" style={{ marginTop: 15, backgroundColor: "#34b7a7", color: "white", fontSize: 20 }}>
                     View on GitHub
                   </button>
                 </a>
               </div>
             </div>
+            
           </div>
         </div>
       </section>
